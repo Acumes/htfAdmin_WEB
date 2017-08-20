@@ -66,11 +66,6 @@ import '@angular/forms';
 import '@angular/http';
 import '@angular/router';
 
-import 'ng2-bootstrap';
-
-
-// AngularClass
-import '@angularclass/hmr';
 
 // RxJS
 import 'rxjs/add/operator/map';
